@@ -1,5 +1,5 @@
               --Station Alerts--
-- Station Fule level at 77%
-- Reports of Unkown Ships Over Hive Homeworld
-- Reactor Levels Spike after Anomaly detection
-- New Station Combat Training System over 60% completed
+- Sub-Reactor 4 is under-remodeling
+- Main Hub scheduled for remodeling pending date
+- New shipment of Brasch Liberty has arrived 
+- New Coruscant PVP map has dropped
