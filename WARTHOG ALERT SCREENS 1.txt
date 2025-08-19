@@ -2,5 +2,6 @@
 - New Station Combat Training System over 80% completed
 - Drinking Nights every bi-weekly friday
 - New Beach Episode Hangout 
-- Unknown signature in Sector A9
+- Unknown signal detected in Sector A9
+
 
