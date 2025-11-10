@@ -1,8 +1,9 @@
               --Station Alerts--
-- Sub-Reactor 4 re-modeling on hold due to leakage
+- Sub-Reactor 4 re-modeling on hold
 - Main Hub scheduled for remodeling pending date
 - Repairs needed in Hanger bay Delta-04
 - WARNING: ORION PROTOCOL INITIALIZED. MOBILIZE IMMEDIATELY.
+
 
 
 
