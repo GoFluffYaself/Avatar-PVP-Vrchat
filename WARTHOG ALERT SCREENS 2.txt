@@ -1,8 +1,9 @@
               --Station Alerts--
-- Sub-Reactor 4 is under-remodeling
+- Sub-Reactor 4 re-modeling on hold due to leakage
 - Main Hub scheduled for remodeling pending date
-- Limited FFA on the 3rd of October
-- Nights of the Silver Scream begins on the 17th
+- Repairs needed in Hanger bay Delta-04
+- WARNING: ORION PROTOCOL INITIALIZED. MOBILIZE IMMEDIATELY.
+
 
 
 
