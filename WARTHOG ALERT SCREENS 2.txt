@@ -1,8 +1,9 @@
               --Station Alerts--
 - Sub-Reactor 4 re-modeling on hold
-- Main Hub scheduled for remodeling pending date
-- Repairs needed in Hanger bay Delta-04
-- WARNING: ORION PROTOCOL INITIALIZED. MOBILIZE IMMEDIATELY.
+- Main Hub updated, come check it out!
+- Train Station GAMMA under maintenance
+- PROTOCOL Penta in effect. No threats detected
+
 
 
 
