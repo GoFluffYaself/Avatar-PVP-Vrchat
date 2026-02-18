@@ -1,6 +1,5 @@
-Last updated 2/17/26
+Last updated 2/17/26   -   Version 0.7 Beta
 - Fixed the rendering with players not being able to get shot from behind.
-- New Version 0.7 Beta
 - (Removed) Armor Piercing DMG Layer 15
 - Health pack Prefab for DL 
 - Made the Class change Hud FX Smaller and at the top of your screen/view
@@ -8,3 +7,4 @@ Last updated 2/17/26
 "PC_L_ATTACK"  - Left Click,
 "PC_R_ATTACK"  - Right Click
 -Fixed the respawn safety / respawning with damage.
+
