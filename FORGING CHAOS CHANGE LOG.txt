@@ -1,0 +1,9 @@
+Last updated 2/17/26
+
+-  New Version 0.7 Beta
+
+-  (Removed) Armor Piercing DMG Layer 15
+
+- Health pack Prefab for DL 
+
+- Class Change Hud is now smaller and towards top of view
