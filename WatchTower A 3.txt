@@ -1,7 +1,9 @@
-> ACCESSING DATABASE...
-> QUERY: WATCHTOWER DATABASE
-> SEARCHING...
-> ERROR 404: DATA ENTRY NOT FOUND
-> POSSIBLE CAUSES: FILE CORRUPTION / DATA EXPUNGED / ACCESS RESTRICTED
-> RECOMMENDATION: CONTACT SYSTEM ADMINISTRATOR OR TRY AGAIN LATER
-> END OF LINE.
+The Ashen empire is a Star wars inspired avatar PvP PC and Quest community. 
+We engage in several different forms of combat such as TDM, FFA, hostage rescue, boss battles and many more. 
+We also play games outside of PvP events in both vrchat and other games. 
+We host events most days between 4pm EST and 8pm EST.
+
+What to expect from our events:
+>Battlefront 2 type gameplay
+>Battles against other groups
+>An ever expanding list of worlds and avatars
