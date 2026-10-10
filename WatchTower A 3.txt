@@ -1,9 +1,10 @@
 The Ashen Empire is a Star Wars inspired avatar PVP server set in the imperial era. Dedicated to fun events for PC, Quest & Desktop users, 
 we focus on consistent development & are ahead of every other quest avatar PVP group in terms of unity mechanics, optimization, & quality.
+
 What we have to offer: 
-Different types of combat events such as TDM, FFA, Boss Battle, Supremacy & more!,
-Relaxed activity standards, we respect IRL & other group requirements!,
-The Friendly Fire system: an in house invention that allows for teammate avatars to be toggled on without taking damage from them!,
-The Mission Log, track attended events, recruited members, and special events to get promoted!,
-The Empire Awaits. Join TAE today for a friendly community & epic battles! 
-https://discord.gg/PKenE8JyBH
+- Different types of combat events such as TDM, FFA, Boss Battle, Supremacy & more!,
+- Relaxed activity standards, we respect IRL & other group requirements!,
+- The Friendly Fire system: an in house invention that allows for teammate avatars to be toggled on without taking damage from them!,
+- The Mission Log, track attended events, recruited members, and special events to get promoted!,
+
+The Empire Awaits. Join TAE today for a friendly community & epic battles! - https://discord.gg/PKenE8JyBH
